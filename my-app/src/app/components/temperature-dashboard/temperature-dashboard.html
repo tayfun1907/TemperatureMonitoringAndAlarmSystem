@@ -1,0 +1,12 @@
+<div class="container">
+  <h1>Live Temperature Monitor</h1>
+
+  <div class="temperature-box">
+    {{ temperature() }} °C
+  </div>
+
+  <div *ngIf="isAlarm()" style="background:red;color:white">
+     ALARM! Temperature exceeded 80°C
+</div>
+</div>
+
