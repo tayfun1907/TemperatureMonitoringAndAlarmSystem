@@ -1,0 +1,11 @@
+h1 {
+  font-family: Arial, sans-serif;
+}
+
+.alarm {
+  margin-top: 15px;
+  padding: 10px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}

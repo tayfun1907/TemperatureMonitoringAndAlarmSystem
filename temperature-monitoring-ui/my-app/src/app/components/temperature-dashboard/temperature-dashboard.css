@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.temperature-box {
+  font-size: 48px;
+  padding: 20px;
+  background: #eee;
+  border-radius: 10px;
+}
+
+.alarm-box {
+  margin-top: 20px;
+  background: red;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+}
